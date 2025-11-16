@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1762184259 source:c:\users\usuario\desktop\proyecto_final_poo\src\menu.cpp
+	"Menu.h"
+	"Tablero.h"
+	<string>
+
+1762179644 c:\users\usuario\desktop\proyecto_final_poo\include\menu.h
+
+1763259923 source:c:\users\usuario\desktop\proyecto_final_poo\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Menu.h"
+
+1762184642 c:\users\usuario\desktop\proyecto_final_poo\include\tablero.h
+
+1762184652 source:c:\users\usuario\desktop\proyecto_final_poo\src\tablero.cpp
+	"Tablero.h"
+
+1763259923 source:c:\users\usuario\desktop\proyecto_final_poo\src\dados.cpp
+	"Dados.h"
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<ctime>
+	<Menu.h>
+
+1763258636 c:\users\usuario\desktop\proyecto_final_poo\include\dados.h
+	<cstdlib>
+	<vector>
+	<iostream>
+	<string>
+
+1763218326 source:c:\users\usuario\desktop\proyecto_final_poo\src\jugador.cpp
+	"Jugador.h"
+
+1763218343 c:\users\usuario\desktop\proyecto_final_poo\include\jugador.h
+
